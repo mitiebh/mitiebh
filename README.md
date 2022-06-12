@@ -6,10 +6,11 @@ def myself:
    work-place = "Home-freelance"
    education = ["B.E. in software engineering"]
    city = "Isfahan, Iran"
-   interests = ["Android OS, Apps and more",
+   interests = ["Android Apps, OS and deeper",
                 "Software Analyse and Testing",
-               "Problem Solving", "free software",
-               "Networks", "math", "Rock & Roll",
-               "Family", "Anime & Manga"]
+                "Problem Solving", "Free Softwares",
+                "Mobile Networks", "Math", "Sociology",
+                "Rock & Roll", "Family", "Anime & Manga",
+                "Healthy Foods","Judo Sport", "Nature"]
    lang = ['Persian', 'English']
 ```
