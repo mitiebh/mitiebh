@@ -12,5 +12,5 @@ def myself:
                 "Mobile Networks", "Math", "Sociology",
                 "Rock & Roll", "Family", "Anime & Manga",
                 "Healthy Foods","Judo Sport", "Nature"]
-   lang = ['Persian', 'English']
+   lang = {"Defualt":"Persian", "Secondary":"English-US"}
 ```
